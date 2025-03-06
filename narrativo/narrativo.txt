@@ -1,0 +1,134 @@
+Aula 01 – Descrição Narrativa
+
+1. Soma de Dois Números
+
+Crie um algoritmo que solicite dois números ao usuário e exiba a soma entre eles.
+
+-Solicite o primeiro número.
+
+-Solicite o segundo número.
+
+-Some os dois valores.
+
+- Exiba o resultado da soma.
+
+
+
+2. Verificação de Número Par ou Ímpar
+
+Crie um algoritmo que solicite um número e informe se ele é par ou ímpar.
+- Solicite o número ao usuário.
+
+- Verifique se ele é divisível por 2.
+
+- Se for divisível, informe que o número é par.
+
+- Caso contrário, informe que o número é ímpar.
+
+
+
+3. Maior Entre Três Números
+
+Crie um algoritmo que solicite três números e exiba o maior entre eles.
+
+- Solicite os três números.
+
+
+- Compare os valores entre si.
+
+
+- Exiba o maior número.
+
+
+
+- Classificação de Número (Positivo, Negativo ou Zero)
+
+Crie um algoritmo que solicite um número e informe se ele é positivo, negativo ou zero.
+
+- Solicite o número ao usuário.
+
+
+- Verifique se o número é maior que zero. Se for, informe que é positivo.
+
+
+
+- Verifique se o número é igual a zero. Se for, informe que é zero.
+
+
+
+-Caso contrário, informe que é negativo.
+
+
+
+5. Cálculo da Distância Entre Dois Números
+
+Crie um algoritmo que solicite dois números e exiba a distância entre eles.
+
+- Solicite os dois valores.
+
+
+- Calcule a diferença entre eles (valor absoluto da subtração).
+
+
+- Exiba o resultado da distância.
+
+
+
+6. Cálculo da Área de um Trapézio
+
+Crie um algoritmo que solicite a base maior, a base menor e a altura de um trapézio, e exiba sua área.
+
+- Solicite os valores da base maior, base menor e altura.
+
+
+- Some a base maior com a base menor.
+
+
+- Multiplique o resultado pela altura.
+
+
+- Divida o valor final por 2.
+
+
+- Exiba a área do trapézio.
+
+
+
+7. Cálculo da Área e Perímetro de um Círculo
+
+Crie um algoritmo que solicite o raio de um círculo e exiba sua área e perímetro. Considere π = 3,1416.
+
+- Solicite o valor do raio.
+
+
+- Calcule a área do círculo:
+Multiplique π pelo raio elevado ao quadrado.
+
+
+
+- Exiba a área do círculo.
+
+
+- Calcule o perímetro do círculo:
+Multiplique π por 2 e depois pelo raio.
+
+
+
+- Exiba o perímetro do círculo.
+
+
+
+- Cálculo do Volume de um Cilindro
+
+Crie um algoritmo que solicite o raio e a altura de um cilindro, e exiba seu volume. Considere π = 3,1416.
+
+1. Solicite o valor do raio e da altura.
+
+
+2. Calcule o volume do cilindro:
+
+Multiplique π pelo raio elevado ao quadrado. Multiplique o resultado pela altura.
+
+
+
+3. Exiba o volume do cilindro.
